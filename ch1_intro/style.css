@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+}
+
+#bottomone {
+  color: green;
+}
+
+
+.centered_text{
+    text-align: center;
+}
+
+*{
+    background-color: yellow;
+}
+
+div{
+    color:red !important;
+
+}
